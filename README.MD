@@ -13,7 +13,7 @@ npm install -g random-msg-dgh
 random-msg
 ```
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [cosmos-msg](https://github.com/cosmosoftroot/npm-cosmos-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [Random-Messages](https://github.com/DanyGlez94/Random-Messages.git)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
